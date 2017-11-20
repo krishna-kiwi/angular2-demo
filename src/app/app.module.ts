@@ -3,18 +3,18 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import { HeroesComponent } from './heroes/heroes.component';
+
 
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
+import { BannerComponent } from './components/banner/banner.component';
 import { MidContentComponent } from './mid-content/mid-content.component';
-import { BannerComponent } from './banner/banner.component';
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeroesComponent,
     HeaderComponent,
     FooterComponent,
     MidContentComponent,
