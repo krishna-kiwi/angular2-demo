@@ -11,7 +11,6 @@ import { BannerComponent } from './components/banner/banner.component';
 import { MidContentComponent } from './mid-content/mid-content.component';
 
 
-
 @NgModule({
   declarations: [
     AppComponent,
