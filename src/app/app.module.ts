@@ -9,9 +9,10 @@ import { FooterComponent } from './footer/footer.component';
 import { BannerComponent } from './components/banner/banner.component';
 
 
-import { MidContentComponent } from './mid-content/mid-content.component';
+
 
 import { AboutComponent } from './pages/about/about.component';
+import { HomeComponent } from './pages/home/home.component';
 
 
 
@@ -20,9 +21,8 @@ import { AboutComponent } from './pages/about/about.component';
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    MidContentComponent,
     BannerComponent, 
-    AboutComponent
+    AboutComponent, HomeComponent
    
     
     
